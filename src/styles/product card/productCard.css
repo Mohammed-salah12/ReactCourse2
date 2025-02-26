@@ -1,0 +1,8 @@
+.productCardContainerDiv {
+  display: flex;
+  flex-direction: column;
+}
+.productImg {
+  width: 200px;
+  height: 300px;
+}

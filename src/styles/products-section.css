@@ -1,0 +1,14 @@
+.products-section {
+  display: flex;
+  margin: 0 100px;
+  gap: 20px;
+}
+.productCard {
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+  justify-content: center;
+  border: solid 1px black;
+  border-radius: 25px;
+  gap: 10px;
+}
